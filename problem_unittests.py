@@ -80,7 +80,7 @@ def test_containment(complete_df, containment_fn):
     
 def test_lcs(df, lcs_word):
     
-    test_index = 10 # file 10
+    test_index = 0 # file 10
     
     # get answer file text
     answer_text = df.loc[test_index, 'Text'] 
