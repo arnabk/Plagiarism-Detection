@@ -5,7 +5,6 @@ import os
 import pandas as pd
 
 from sklearn.externals import joblib
-from sagemaker.sklearn.estimator import SKLearn
 
 ## TODO: Import any additional libraries you need to define a model
 
